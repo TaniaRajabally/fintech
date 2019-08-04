@@ -1,0 +1,1 @@
+A website to connect women who need funds with donors. The website, made using angular and firebase, had separate login for needy women and donors . The requests by needy women would appear on the donor's page after login.
